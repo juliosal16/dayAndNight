@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Permanent+Marker&family=Rampart+One&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.starMoon{
+  height: 300px;
+  width: 300px;
+  border: 3px solid black;
+  border-radius: 150px;
+  margin: 0 auto;
+  background-color: yellow;
+}
+
+.frame{
+  margin: 20px auto;
+  height: 350px;
+  width: 400px;
+  text-align: center;
+}
+
+button{
+  font-size: 20px;
+  padding: 3px;
+  margin-top: 22%;
+  width: 180px;
+  border: none;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+.h1text{
+  text-align: center;
+  padding: 3%;
+  font-family: 'Rampart One', cursive;
+}
+
+ /* body {
+  background:#000 url(/stars.png) repeat top center;
+  z-index:0;
+}  */
